@@ -1,0 +1,3 @@
+{"filename": "map.txt", "status_ok": true, "list_erros": []}
+
+[{"filename": "map2.txt", "status_ok": false, "list_erros": [17]}
